@@ -1,1 +1,1 @@
-Hi,I am Manju Venkata Sainath.. I'm interested in Full-stack development.
+Hi,I am Manju Venkata Sainath.. I'm a Full-stack developer.
